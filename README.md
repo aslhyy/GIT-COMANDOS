@@ -1,20 +1,5 @@
 # GIT-COMANDOS
-<<<<<<< HEAD
-# Comandos de ramas y fusiones en Git
 
-Permiten trabajar con distintas versiones del proyecto en paralelo:
-
-## Ramas
-- `git branch` → Lista todas las ramas del proyecto.  
-  También se puede usar `git branch <nombre>` para crear una nueva rama.  
-
-- `git checkout <nombre-de-rama>` → Cambia a otra rama y actualiza los archivos de trabajo.  
-
-## Fusiones
-- `git merge <nombre-de-rama>` → Fusiona los cambios de una rama con la actual.  
-
- Estos comandos son muy usados cuando se trabaja en equipo para separar tareas y luego unirlas.
-=======
 # Comandos básicos de Git (control de versiones, local)
 
 Estos comandos se usan en la **terminal** para manejar tu proyecto en tu computadora:
@@ -32,5 +17,24 @@ Estos comandos se usan en la **terminal** para manejar tu proyecto en tu computa
 
 ## Historial
 - `git log` → Muestra el historial de commits (versiones).  
+<<<<<<< HEAD
 >>>>>>> e528e91f5a3cff62663708c6e19e0b78cd754032
  
+=======
+
+# Comandos de ramas y fusiones en Git
+
+Permiten trabajar con distintas versiones del proyecto en paralelo:
+
+## Ramas
+- `git branch` → Lista todas las ramas del proyecto.  
+  También se puede usar `git branch <nombre>` para crear una nueva rama.  
+
+- `git checkout <nombre-de-rama>` → Cambia a otra rama y actualiza los archivos de trabajo.  
+
+## Fusiones
+- `git merge <nombre-de-rama>` → Fusiona los cambios de una rama con la actual.  
+
+ Estos comandos son muy usados cuando se trabaja en equipo para separar tareas y luego unirlas.
+
+>>>>>>> c0a7657adbecbb8938e7fc177e375a80bf9ee64e
