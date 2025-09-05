@@ -33,3 +33,4 @@ Estos comandos se usan en la **terminal** para manejar tu proyecto en tu computa
 ## Historial
 - `git log` → Muestra el historial de commits (versiones).  
 >>>>>>> e528e91f5a3cff62663708c6e19e0b78cd754032
+ 
