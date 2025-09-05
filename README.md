@@ -38,3 +38,26 @@ Permiten trabajar con distintas versiones del proyecto en paralelo:
  Estos comandos son muy usados cuando se trabaja en equipo para separar tareas y luego unirlas.
 
 >>>>>>> c0a7657adbecbb8938e7fc177e375a80bf9ee64e
+
+# Comandos de GitHub y repositorio remoto
+
+Estos comandos permiten conectar tu repositorio local con uno en la nube (GitHub, GitLab, etc.):
+
+## Conexión con remoto
+- git remote add origin <url> → Conecta el repositorio local con uno remoto.  
+
+## Subir cambios
+- git push origin <rama> → Sube los commits locales al repositorio remoto.  
+
+## Descargar cambios
+- git pull origin <rama> → Descarga los cambios del remoto y los fusiona con tu rama local.  
+- git fetch → Descarga los cambios del remoto sin fusionarlos automáticamente.  
+
+## Repositorio remoto
+Un repositorio remoto es una copia de tu proyecto guardada en un servidor en la nube (ej. GitHub).  
+
+Sirve para:  
+- Compartir tu código.  
+- Colaborar en equipo.  
+- Respaldar tu proyecto.  
+- Acceder desde cualquier lugar con internet.
